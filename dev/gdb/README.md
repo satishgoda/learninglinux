@@ -1,4 +1,3 @@
-
 # What is ```gdb```?
 
 The purpose of a debugger such as [gdb] (https://sourceware.org/gdb/onlinedocs/gdb/index.html) is to allow you to see what is going on “inside” another program while it executes—or what another program was doing at the moment it crashed.
@@ -11,7 +10,7 @@ Examine what has happened, when your program has stopped.
 Change things in your program, so you can experiment with correcting the effects of one bug and go on to learn about another.
 You can use gdb to debug programs written in C and C++.
 
-Read more at ```https://sourceware.org/gdb/onlinedocs/gdb/Summary.html```
+Read more at __https://sourceware.org/gdb/onlinedocs/gdb/Summary.html__
 
 # References
 
