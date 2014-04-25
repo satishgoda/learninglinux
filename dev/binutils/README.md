@@ -1,7 +1,6 @@
-
 # About
 
-The GNU Binutils are a collection of binary tools. The main ones are:
+The GNU [Binutils] (http://www.gnu.org/software/binutils) are a collection of binary tools. The main ones are:
 
 * ld - the GNU linker.
 * as - the GNU assembler.
